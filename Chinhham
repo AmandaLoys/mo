@@ -1,7 +1,7 @@
 echo "# mo" >> README.md 
 git init 
 git add README.md 
-git commit -m "I love you" 
+git commit -m "content://media/external/downloads/10873" 
 git branch -M main 
 git remote add origin https://github.com/AmandaLoys/mo.git
  git push - nguồn gốc chính của u
